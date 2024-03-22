@@ -12,7 +12,7 @@ const routes = [
     name: 'Home',
     component: Home,
     meta: {
-      requiresAuth: true // This route requires authentication
+      requiresAuth: true
     }
   },
   {
@@ -20,7 +20,7 @@ const routes = [
     name: 'Home2',
     component: Home,
     meta: {
-      requiresAuth: true // This route requires authentication
+      requiresAuth: true 
     }
   },
   {
@@ -33,7 +33,7 @@ const routes = [
     name: 'Department',
     component: Department,
     meta: {
-      requiresAuth: true // This route requires authentication
+      requiresAuth: true 
     }
   },
   {
@@ -41,7 +41,7 @@ const routes = [
     name: 'Employee',
     component: Employee,
     meta: {
-      requiresAuth: true // This route requires authentication
+      requiresAuth: true 
     }
   },
 ]

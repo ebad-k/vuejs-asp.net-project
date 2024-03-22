@@ -30,8 +30,8 @@
 
 <script>
 import axios from "../../axios";
-import variables from "../../variables"; // Import your variables file
-import router from "../router/index"; // Import your Vue Router instance
+import variables from "../../variables";
+import router from "../router/index";
 import { useToast } from "vue-toastification";
 
 const toast = useToast();
@@ -55,7 +55,6 @@ export default {
         localStorage.setItem("jwt", token);
         router.push("/home");
         toast.success("Logged In");
-        // Redirect or update UI to reflect authentication
       } catch (error) {
         toast.error("Login failed");
         console.error("Login failed", error);

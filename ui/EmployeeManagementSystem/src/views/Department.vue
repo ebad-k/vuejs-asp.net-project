@@ -5,7 +5,6 @@
         Add Department
       </button>
   
-      <!-- Department Table -->
       <table class="table table-striped">
         <thead>
           <tr>
@@ -30,7 +29,6 @@
         </tbody>
       </table>
   
-      <!-- Department Modal -->
       <div class="modal fade" id="departmentModal" tabindex="-1" aria-labelledby="departmentModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-centered">
           <div class="modal-content">
@@ -55,7 +53,7 @@
   <script>
   import Navigation from '@/components/Navigation.vue';
 import axios from '../../axios';
-  import variables from '../../variables'; // Import your variables file
+  import variables from '../../variables'; 
 
   
   export default {

@@ -53,7 +53,6 @@
             </div>
   
             <div class="modal-body">
-              <!-- Modal content here -->
               <div class="modal-body">
                 <div class="d-flex flex-row bd-highlight mb-3">
                   <div class="p-2 w-50 bd-highlight">
@@ -96,7 +95,7 @@
    import Navigation from '@/components/Navigation.vue';
 import axios from '../../axios';
 
-  import variables from '../../variables'; // Import your variables file
+  import variables from '../../variables';
   
   export default {
     data() {
@@ -208,7 +207,4 @@ import axios from '../../axios';
   }
   </script>
   
-  <style scoped>
-  /* Add your styles here */
-  </style>
   
