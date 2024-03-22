@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Data.SqlClient;
 using System.Data;
 using EmployeeManagementSystem.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EmployeeManagementSystem.Controllers
 {
@@ -17,6 +18,7 @@ namespace EmployeeManagementSystem.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public JsonResult Get()
         {
             string query = @"
@@ -43,6 +45,7 @@ namespace EmployeeManagementSystem.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public JsonResult Post(Department dep)
         {
             string query = @"
@@ -70,6 +73,7 @@ namespace EmployeeManagementSystem.Controllers
         }
 
         [HttpPut]
+        [Authorize]
         public JsonResult Put(Department dep)
         {
             string query = @"
@@ -99,6 +103,7 @@ namespace EmployeeManagementSystem.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize]
         public JsonResult Delete(int id)
         {
             string query = @"
@@ -125,14 +130,6 @@ namespace EmployeeManagementSystem.Controllers
 
             return new JsonResult("Deleted Successfully");
         }
-
-
-
-
-
-
-
-
 
     }
 }

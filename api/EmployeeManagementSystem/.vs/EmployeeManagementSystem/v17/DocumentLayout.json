@@ -1,29 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\employee management system\\api\\employeemanagementsystem\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\employee management system\\api\\employeemanagementsystem\\employeemanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\models\\userconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\userconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\employee management system\\api\\employeemanagementsystem\\employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\employee management system\\api\\employeemanagementsystem\\employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\employee management system\\api\\employeemanagementsystem\\employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\employee management system\\api\\employeemanagementsystem\\employeemanagementsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\administrator\\desktop\\vuejs projects\\vuejs-asp.net-project\\api\\employeemanagementsystem\\employeemanagementsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EE96D50-72C3-4DCD-98BA-AB98E2BEE90D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,13 +58,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\DepartmentController.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\DepartmentController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAABEAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAIQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T21:04:00.845Z",
               "IsPinned": true,
@@ -52,66 +72,134 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwC4AAAAJAAAA",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAowJUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T20:34:35.225Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwBYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:40:33.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:39:31.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\UserConstants.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\UserConstants.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\UserConstants.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\UserConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:37:47.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\UserLogin.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:36:59.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\UserModel.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T18:31:24.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Program.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAqwC0AAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAABwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T19:41:08.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\appsettings.json",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\appsettings.json",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\appsettings.json",
               "RelativeToolTip": "EmployeeManagementSystem\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-03-20T20:10:09.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Employee.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Models\\Employee.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T20:09:15.716Z"
+              "WhenOpened": "2024-03-20T20:09:15.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Department.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Department.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Employee Management System\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\VueJS Projects\\vuejs-asp.net-project\\api\\EmployeeManagementSystem\\EmployeeManagementSystem\\Models\\Department.cs",
               "RelativeToolTip": "EmployeeManagementSystem\\Models\\Department.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-20T20:06:40.088Z"
+              "WhenOpened": "2024-03-20T20:06:40.088Z",
+              "EditorCaption": ""
             }
           ]
         }

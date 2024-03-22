@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Data.SqlClient;
 using System.Data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EmployeeManagementSystem.Controllers
 {
@@ -19,6 +20,7 @@ namespace EmployeeManagementSystem.Controllers
 
 
         [HttpGet]
+        [Authorize]
         public JsonResult Get()
         {
             string query = @"
@@ -47,6 +49,7 @@ namespace EmployeeManagementSystem.Controllers
         }
 
         [HttpPost]
+        [Authorize]
         public JsonResult Post(Employee emp)
         {
             string query = @"
@@ -79,6 +82,7 @@ namespace EmployeeManagementSystem.Controllers
 
 
         [HttpPut]
+        [Authorize]
         public JsonResult Put(Employee emp)
         {
             string query = @"
@@ -114,6 +118,7 @@ namespace EmployeeManagementSystem.Controllers
         }
 
         [HttpDelete("{id}")]
+        [Authorize]
         public JsonResult Delete(int id)
         {
             string query = @"
@@ -144,6 +149,7 @@ namespace EmployeeManagementSystem.Controllers
 
         [Route("SaveFile")]
         [HttpPost]
+        [Authorize]
         public JsonResult SaveFile()
         {
             try
