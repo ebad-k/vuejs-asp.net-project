@@ -1,5 +1,6 @@
 <template>
     <div>
+      <Navigation></Navigation>
       <button type="button" class="btn btn-primary m-2 float-end" data-bs-toggle="modal" data-bs-target="#departmentModal" @click="addClick()">
         Add Department
       </button>
@@ -52,7 +53,8 @@
   </template>
   
   <script>
-  import axios from 'axios';
+  import Navigation from '@/components/Navigation.vue';
+import axios from '../../axios';
   import variables from '../../variables'; // Import your variables file
 
   
@@ -66,12 +68,17 @@
         DepartmentId: 0
       }
     },
+    components:{
+      Navigation
+    },
     methods: {
       refreshData() {
         axios.get(variables.API_URL + "department")
           .then((response) => {
             this.departments = response.data;
-          });
+          })     .catch(error => {
+        console.error('Error fetching data:', error);
+      });
       },
       addClick() {
         this.modalTitle = "Add Department";
@@ -90,7 +97,9 @@
           .then((response) => {
             this.refreshData();
             alert(response.data);
-          });
+          }).catch(error => {
+        console.error('Error fetching data:', error);
+      });
       },
       updateClick() {
         axios.put(variables.API_URL + "department", {
@@ -100,7 +109,9 @@
           .then((response) => {
             this.refreshData();
             alert(response.data);
-          });
+          }).catch(error => {
+        console.error('Error fetching data:', error);
+      });
       },
       deleteClick(id) {
         if (!confirm("Are you sure?")) {
@@ -110,7 +121,9 @@
           .then((response) => {
             this.refreshData();
             alert(response.data);
-          });
+          }).catch(error => {
+        console.error('Error fetching data:', error);
+      });
       }
     },
     mounted() {

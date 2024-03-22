@@ -1,5 +1,6 @@
 <template>
     <div>
+      <Navigation></Navigation>
       <button type="button"
               class="btn btn-primary m-2 float-end"
               data-bs-toggle="modal"
@@ -92,7 +93,9 @@
   </template>
   
   <script>
-  import axios from 'axios';
+   import Navigation from '@/components/Navigation.vue';
+import axios from '../../axios';
+
   import variables from '../../variables'; // Import your variables file
   
   export default {
@@ -109,17 +112,24 @@
         PhotoPath: variables.PHOTO_URL
       }
     },
+    components:{
+      Navigation
+    },
     methods: {
       refreshData() {
         axios.get(variables.API_URL + "employee")
           .then((response) => {
             this.employees = response.data;
-          });
+          }).catch(error => {
+        console.error('Error fetching data:', error);
+      });
   
         axios.get(variables.API_URL + "department")
           .then((response) => {
             this.departments = response.data;
-          });
+          }).catch(error => {
+        console.error('Error fetching data:', error);
+      });
       },
       addClick() {
         this.modalTitle = "Add Employee";
@@ -147,7 +157,9 @@
           .then((response) => {
             this.refreshData();
             alert(response.data);
-          });
+          }).catch(error => {
+        console.error('Error fetching data:', error);
+      });
       },
       updateClick() {
         axios.put(variables.API_URL + "employee", {
@@ -160,7 +172,9 @@
           .then((response) => {
             this.refreshData();
             alert(response.data);
-          });
+          }).catch(error => {
+        console.error('Error fetching data:', error);
+      });
       },
       deleteClick(id) {
         if (!confirm("Are you sure?")) {
@@ -170,7 +184,9 @@
           .then((response) => {
             this.refreshData();
             alert(response.data);
-          });
+          }).catch(error => {
+        console.error('Error fetching data:', error);
+      });
   
       },
       imageUpload(event) {
@@ -181,7 +197,9 @@
             formData)
           .then((response) => {
             this.PhotoFileName = response.data;
-          });
+          }).catch(error => {
+        console.error('Error fetching data:', error);
+      });
       }
     },
     mounted() {
